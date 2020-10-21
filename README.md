@@ -1,2 +1,2 @@
 # Hactober-Fest
-Lern about open source
+Learn about open source
